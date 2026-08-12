@@ -1,5 +1,9 @@
 # Aisle, an agentic shopping assistant
 
+### 📌 Repository scope
+
+This is the **public demo/integration repository** for Aisle. The underlying serving components and recommender pipeline are maintained in separate private repositories, as explained below.
+
 **▶ Try it live:** https://aisle-4fpi.onrender.com
 *(Free tier: The application sleeps when idle and re-fetches ~400 MB of data on wake. The initial request may take several minutes.)*
 
